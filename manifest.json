@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "nav",
+    "description": "nav",
+    "version": "1.0",
+    "web_accessible_resources": [
+        "opt/*"
+    ],
+    "background": {
+        "scripts": [
+            "hot-reload.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*/*",
+                "http://*/*"
+            ],
+            "js": [
+                "script.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}

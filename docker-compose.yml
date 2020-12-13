@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  sbcl-python:
+    restart: always
+    build: .
+    ports:
+      - "8000:8000"
+    container_name: 'sbcl-python'
+    working_dir: '/'
+    tty: true
+    volumes:
+      - ./opt:/create-chunk/history

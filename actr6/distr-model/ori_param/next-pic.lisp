@@ -1,0 +1,1 @@
+(setf *current-image* "AUC-TOKUTOKU-PC%2FCABINET%2F29%2FL540-EVENT%231")

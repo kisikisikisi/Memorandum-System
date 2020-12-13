@@ -1,0 +1,8 @@
+(setf *image-struct* '(("716t" 10 10 10 10 BLUE)
+("Javascript" 5 5 5 400 GREEN)
+("xe3x82xb5xe3x83xa0xe3x83x8dxe3x82xa4xe3x83xab" 5 5 20 400 GREEN)
+("xe7x94xbbxe5x83x8f" 5 5 35 400 GREEN)
+("-" 5 5 50 400 GREEN)
+("Google" 5 5 65 400 GREEN)
+("xe6xa4x9cxe7xb4xa2" 5 5 80 400 GREEN)
+))

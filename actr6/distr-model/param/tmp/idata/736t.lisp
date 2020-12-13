@@ -1,0 +1,8 @@
+(setf *image-struct* '(("736t" 10 10 10 10 BLUE)
+("element" 5 5 5 400 GREEN)
+("insertAdjacentHTML" 5 5 20 400 GREEN)
+("-" 5 5 35 400 GREEN)
+("Web" 5 5 50 400 GREEN)
+("API" 5 5 65 400 GREEN)
+("MDN" 5 5 80 400 GREEN)
+))

@@ -1,0 +1,1 @@
+(sgp :MAS 15 :BLC 15 :BLL 0.5 :OL t :EGS 1 :RT -10)
