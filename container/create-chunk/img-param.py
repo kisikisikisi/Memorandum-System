@@ -3,7 +3,6 @@ import os
 import json
 
 """
-Create image data
 example chunk:
 (sdp 781 :creation-time 12313 :reference-list())
 """

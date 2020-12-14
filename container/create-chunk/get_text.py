@@ -3,11 +3,10 @@ import requests as req
 from bs4 import BeautifulSoup
 """
 2020年10月9日更新
-load()でget_textを試しに5回実行
 """
 
 class Get_text:
-
+"""履歴データからテキストを抽出"""
     def __init__(self, history, text):
         self.history = history
         self.text = text

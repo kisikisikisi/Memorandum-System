@@ -1,4 +1,3 @@
-#create image data
 import glob
 import os
 
